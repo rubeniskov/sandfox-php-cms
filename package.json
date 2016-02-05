@@ -1,0 +1,48 @@
+{
+  "name": "SandFox-PHP-CMS",
+  "type": "app",
+  "main": "index.php",
+  "description": "Web Content Magnament System Framework",
+  "version": "0.0.1",
+  "homepage": "http://projects.rubeniskov.com/SandFox-PHP-CMS",
+  "scripts": {
+    "install": ""
+  },
+  "keywords": [
+    "cms",
+    "php",
+    "web",
+    "html",
+    "blog"
+  ],
+  "requirements": [
+    "php",
+    "mysql",
+    "httpd"
+  ],
+  "author": {
+    "name": "Rubén López Gómez",
+    "email": "me@rubeniskov.com",
+    "url": "http://rubeniskov.com"
+  },
+  "licenses": [{
+    "type": "MIT",
+    "url": "https://github.com/rubeniskov/sandfox-php-cms/blob/master/LICENSE.md"
+  }],
+  "bugs": {
+    "url": "https://github.com/rubeniskov/sandfox-php-cms/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rubeniskov/sandfox-php-cms.git",
+    "url_commit": "https://github.com/rubeniskov/sandfox-php-cms/commit",
+    "url_tag": "https://github.com/rubeniskov/sandfox-php-cms/releases/tag"
+  },
+  "licenses": [{
+    "type": "MIT",
+    "url": "https://github.com/rubeniskov/sandfox-php-cms/blob/master/LICENSE.md"
+  }],
+  "bugs": {
+    "url": "https://github.com/rubeniskov/sandfox-php-cms/issues"
+  }
+}
